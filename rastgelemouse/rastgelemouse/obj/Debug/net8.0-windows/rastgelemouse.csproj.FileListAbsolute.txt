@@ -1,0 +1,16 @@
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\bin\Debug\net8.0-windows\rastgelemouse.exe
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\bin\Debug\net8.0-windows\rastgelemouse.deps.json
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\bin\Debug\net8.0-windows\rastgelemouse.runtimeconfig.json
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\bin\Debug\net8.0-windows\rastgelemouse.dll
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\bin\Debug\net8.0-windows\rastgelemouse.pdb
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.Form1.resources
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.csproj.GenerateResource.cache
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.AssemblyInfoInputs.cache
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.AssemblyInfo.cs
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.csproj.CoreCompileInputs.cache
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.dll
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\refint\rastgelemouse.dll
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.pdb
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\rastgelemouse.genruntimeconfig.cache
+C:\Users\burvk\source\repos\rastgelemouse\rastgelemouse\obj\Debug\net8.0-windows\ref\rastgelemouse.dll

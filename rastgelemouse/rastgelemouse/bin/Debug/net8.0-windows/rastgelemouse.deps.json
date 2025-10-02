@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "rastgelemouse/1.0.0": {
+        "runtime": {
+          "rastgelemouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rastgelemouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
